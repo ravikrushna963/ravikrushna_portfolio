@@ -28,7 +28,7 @@ class Home extends Component {
         <>
         <div className="home">
             <div className="home-card1">
-                <h1 className="home-heading1">Welcome To My Portfolio  </h1>
+                <h1 className="home-heading1">Welcome to My Portfolio  </h1>
             </div>
             <div className="home-cards d-flex flex-row justtify-content-center">
                 <div className="home-card2">
