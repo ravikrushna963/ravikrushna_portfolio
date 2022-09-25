@@ -43,9 +43,9 @@ class Home extends Component {
                     </button>
                     <h2 className="home-follow-me-on">Follow Me:</h2>
                     <div className="home-card4 d-flex justify-content-center">
-                        <a className="home-follow-me" href='http://localhost:3000'><i className="bi bi-facebook" target="_banck"></i></a>
+                        <a className="home-follow-me" href='https://admirable-empanada-3576b5.netlify.app/'><i className="bi bi-facebook" target="_banck"></i></a>
                         <a className="home-follow-me" href="https://www.linkedin.com/in/ravi-krushna-gudise-564240229/"><i className="bi bi-linkedin"></i></a>
-                        <a className="home-follow-me" href="http://localhost:3000"><i className="bi bi-instagram" target="_banck"></i></a>
+                        <a className="home-follow-me" href="https://admirable-empanada-3576b5.netlify.app/"><i className="bi bi-instagram" target="_banck"></i></a>
                         <a className="home-follow-me" href="tel:+9000071401" target="_banck"><i className="bi bi-telephone-plus-fill"></i></a>
                     </div>
                 </div>
